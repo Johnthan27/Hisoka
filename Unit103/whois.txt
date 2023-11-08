@@ -34,3 +34,9 @@ google.com has IPv6 address 2607:f8b0:4002:c0f::64
 google.com has IPv6 address 2607:f8b0:4002:c0f::71
 google.com has IPv6 address 2607:f8b0:4002:c0f::65
 google.com mail is handled by 10 smtp.google.com.
+;; communications error to 127.0.0.53#53: timed out
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+** server can't find cls: SERVFAIL
+
